@@ -1,5 +1,21 @@
 {
-  "updated_at": "2025-12-20T02:33:58.842Z",
-  "total_supporters": 0,
-  "supporters": []
+  "updated_at": "2026-01-20T02:46:33.955Z",
+  "total_supporters": 1,
+  "supporters": [
+    {
+      "name": "Weed_Messiah",
+      "tier": "supporter 1",
+      "since": "2025-12-20",
+      "source": "stripe",
+      "tier_color": "#7c3aed",
+      "name_color": "#ffffff"
+    }
+  ],
+  "tiers": [
+    {
+      "name": "supporter 1",
+      "color_header": "#7c3aed",
+      "color_supporters": "#ffffff"
+    }
+  ]
 }
